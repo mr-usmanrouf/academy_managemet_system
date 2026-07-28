@@ -79,20 +79,6 @@ python3 main.py
 
 ---
 
-## What I Learned
-
-While building this project, I practiced:
-
-* Designing classes and objects
-* Working with abstract classes and inheritance
-* Managing relationships between multiple entities
-* Reading and writing JSON files
-* Creating custom exceptions
-* Organizing a project into multiple modules
-* Implementing CRUD operations
-* Writing cleaner and reusable Python code
-
----
 
 ## Future Improvements
 
